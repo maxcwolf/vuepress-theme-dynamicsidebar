@@ -29,7 +29,7 @@ module.exports = {
     ],
 ```
 
-2. Now, setup those folders to appear in the Sidebar when clicked on the Navbar
+4. Now, setup those folders to appear in the Sidebar when clicked on the Navbar
 
 > NOTE: capitalization and periods are allowed to be the only differences between the path/link and the title. To account for other differences, you may edit the regex shown in the later section of this readme
 
@@ -85,4 +85,4 @@ If you want to eject the VuePress theme and customize it yourself, below is the 
   }
 ```
 
-Then use `sidebarItemsFromFile` in where `sidebarItems` is used in the Vue template
+Then use `sidebarItemsFromFile` where `sidebarItems` is used in the Vue template
