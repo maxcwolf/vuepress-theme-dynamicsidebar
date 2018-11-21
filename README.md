@@ -19,12 +19,12 @@ module.exports = {
   themeConfig: {
     sidebarDepth: 2,
     nav: [{
-        text: 'AMS',
-        link: '/ams/'
+        text: 'Folder',
+        link: '/folder/'
       },
       {
-        text: 'AMS 2.0',
-        link: '/ams20/'
+        text: 'Folder 2.0',
+        link: '/folder20/'
       }
     ],
 ```
@@ -36,8 +36,8 @@ module.exports = {
 ```js
   themeConfig: {
     sidebar: {
-      '/ams20/': [{
-        title: 'AMS2.0',
+      '/folder20/': [{
+        title: 'Folder2.0',
         collapsable: false,
         // CHILDREN ARE NOW AUTOMATICALLY CREATED WHEN DROPPED INTO THE AMS and AMS20 FOLDERS!
         // Custom code in Layout.vue handles this.
@@ -47,8 +47,8 @@ module.exports = {
         //   'Document-3'
         // ]
       }],
-      '/ams/': [{
-        title: 'AMS',
+      '/folder/': [{
+        title: 'Folder',
         collapsable: false,
       }]
     }
