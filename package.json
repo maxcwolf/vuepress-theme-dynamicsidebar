@@ -1,0 +1,22 @@
+{
+  "name": "vuepress-theme-dynamicsidebar",
+  "version": "1.0.0",
+  "description": "vuepress-theme",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maxcwolf/vuepress-theme-dynamicsidebar.git"
+  },
+  "keywords": [
+    "vuepress",
+    "theme",
+    "dynamic",
+    "sidebar",
+    "drag",
+    "drop",
+    "file"
+  ],
+  "author": "Max Wolf <maxcharleswolf@gmail.com>",
+  "license": "MIT",
+  "private": false
+}
