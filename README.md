@@ -1,6 +1,8 @@
-# VuePress Theme Dynamic Sidebar - A Drag and Drop Documentation Library Solution
+# VuePress Theme - Dynamic Sidebar
 
-## Custom VuePress theme that creates sidebar navigation dynamically based on folder content
+**A Drag and Drop Documentation Library Solution**
+
+This custom VuePress theme creates sidebar navigation dynamically based on folder content
 
 ### Instructions
 
